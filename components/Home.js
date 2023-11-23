@@ -1,11 +1,11 @@
 import styles from '../styles/Home.module.css';
-import LoginPage from './LoginPage';
+import Login from './Login';
 
 
 function Home() {
   return (
     <div>
-      <LoginPage/>
+      <Login/>
     </div>
   );
 }
