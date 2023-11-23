@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@700;900&family=Pixelify+Sans:wght@500&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@700;900&family=Pixelify+Sans:wght@500&family=Roboto:wght@100;300;400;500;700&display=swap');
+
+.container {
+    font-family: 'Jost', sans-serif;
+    font-weight:bold;
+    height: 800px;
+    color: #fefeff;
+    display: flex;
+
+}
+
+.img {
+     height: 800px;
+     width:45vw;
+    
+ 
+}
+.content {
+    padding: 30px;
+    background-color: #151f2b;
+    width: 60vw;
+}
+
+.btnSignUp {
+    background-color: #3e9bef;
+    color: #fefeff;
+    border: 1px solid #3e9bef;
+    border-radius: 30px;
+    width: 150px;
+    height: 30px;
+}
+
+.btnSignIn {
+    background-color: #151f2b;
+    color: #3e9bef;
+    border: 1px solid #fefeff;
+    border-radius: 30px;
+    width: 150px;
+    height: 30px;
+}
+
+.title {
+    font-family: 'Jost', sans-serif;
+    font-size: 50px;
+   letter-spacing:.3rem;
+   font-weight: 900;
+}
+
+.text1 {
+    font-size: 30px;
+}
+.text2 {
+    font-size: 20px;
+}
